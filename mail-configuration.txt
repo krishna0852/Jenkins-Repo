@@ -1,4 +1,4 @@
-smptserver: smtp.gmail.com 
+smtp server: smtp.gmail.com 
 email-suffix: @gmail.com 
 USE 	SMTP AUTHENTICATION 
    USERNAME : MAIL 

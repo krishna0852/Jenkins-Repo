@@ -2,7 +2,13 @@ Jenkins concepts
 
 using free-style 
 
+build-triggers:
+  build periodically
+  poll scm 
+
 upstream and downstream job 
+
+executors
 
 user-management (role-based-strategy)
 

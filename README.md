@@ -3,7 +3,7 @@ Jenkins concepts
 using free-style 
 
 build-triggers:
-  build periodically
+  build periodically,
   poll scm 
 
 upstream and downstream job 

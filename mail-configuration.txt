@@ -1,0 +1,15 @@
+smptserver: smtp.gmail.com 
+email-suffix: @gmail.com 
+USE 	SMTP AUTHENTICATION 
+   USERNAME : MAIL 
+   PASSWORD: CREATE A APP KEY IN YOUR GMAIL ACCOUNT AND COPY HERE 
+USE SSL, TLS
+SMTP-PORT: 465 (GMAIL)
+
+TEST -it 
+
+
+same for outlook 
+
+smtp.office.365.com
+SMTP-PORT: 587 (GMAIL)

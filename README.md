@@ -5,7 +5,7 @@ using free-style
 build-triggers:
   build periodically,
   poll scm 
-
+  webhooks 
 upstream and downstream job 
 
 executors
@@ -17,5 +17,15 @@ pushing artifactories to jforg (artifactory-plugin)
 email-notification 
 
 parameterized build 
+    string parameter 
+    choice parameter 
 
-think backup 
+think backup --which is used to take the backup 
+
+how to configure paths 
+
+credentails setup 
+
+agent setup
+sonar-qube analysis 
+
